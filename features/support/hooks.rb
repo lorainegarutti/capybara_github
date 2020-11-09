@@ -1,7 +1,5 @@
 Before do
   page.current_window.resize_to(1440, 900)
-  ENV["USERNAME_GITHUB"] = $username
-  ENV["SENHA_GITHUB"] = $senha
 end
 
 After do |scenario|
