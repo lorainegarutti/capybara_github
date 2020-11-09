@@ -1,0 +1,1 @@
+default: --publish-quiet --format html --out logs/report.html --format pretty
