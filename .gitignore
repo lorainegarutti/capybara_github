@@ -1,2 +1,4 @@
 features/support/helpers.rb
-screenshots/
+screenshots/*
+reports/*
+.DS_Store
