@@ -1,5 +1,6 @@
 ## O que é?
 Projeto de automatização de login e busca por repositórios aqui do Github, utilizando BDD com Cucumber e Capybara.
+Feito em conjunto com a QA Ninja Week
 
 ## Como rodar no meu computador?
 ### Passo 1
